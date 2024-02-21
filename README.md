@@ -1,1 +1,1 @@
-# practices
+This repository contains my practical works
